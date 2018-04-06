@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "671969601858",
+    "firebase_url": "https://basicchatapp-c9067.firebaseio.com",
+    "project_id": "basicchatapp-c9067",
+    "storage_bucket": "basicchatapp-c9067.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671969601858:android:3e87b081e84c8ab2",
+        "android_client_info": {
+          "package_name": "hanbat.isl.baeminsu.firebasebasicchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671969601858-5jqrcgs4vejmkkiat0p1nh8j3nhasuiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hanbat.isl.baeminsu.firebasebasicchatapp",
+            "certificate_hash": "adb8c06e0e4cfe4cd643d35e28d9844dce55f87f"
+          }
+        },
+        {
+          "client_id": "671969601858-1s3s3jngfro8g3n4fkpphapqtga8cuh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbBs6lRAbGoUJpRMYmtYKdbZU0Af7ju7s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671969601858-1s3s3jngfro8g3n4fkpphapqtga8cuh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
